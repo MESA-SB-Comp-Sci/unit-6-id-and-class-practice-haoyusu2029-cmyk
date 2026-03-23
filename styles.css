@@ -2,6 +2,50 @@
     box-sizing: border-box;
 }
 
+.pink-bg{
+   background-color: purple;
+}
+
+#main-title {
+   background-color: navy;
+   color:white;
+}
+
+body {
+   background-color: blueviolet;
+}
+
+.blue-text {
+   color:blue;
+}
+
+.big-border {
+   border: 10px green dotted ;
+}
+
+html {
+   text-align: center;
+}
+
+.super-color {
+   color:green;
+   background-color: crimson;
+}
+
+#id-random {
+   color:aquamarine
+   background-color:cyan;
+}
+
+
+
+
+
+
+
+
+
+
 
 /* ─────────────────────────────────────────────
    PART 1 — Fully Guided
